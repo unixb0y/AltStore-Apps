@@ -1,0 +1,48 @@
+{
+  "apps": [
+    {
+      "bundleIdentifier": "com.davidetoldo.OBSCam",
+      "developerName": "Davide Toldo",
+
+      "downloadURL": "https://raw.githubusercontent.com/unixb0y/AltStore-Apps/main/OBSCam/OBSCam.ipa",
+      "githubOwner": "unixb0y",
+      "githubRepository": "OBSCam",
+      "iconURL": "https://raw.githubusercontent.com/unixb0y/AltStore-Apps/main/OBSCam/images/icon.png",
+      "localizedDescription": "Use any of your iPhone or iPad's cameras as OBS input devices.",
+      "name": "OBSCam",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/unixb0y/AltStore-Apps/main/OBSCam/images/screenshot_1.png",
+        "https://raw.githubusercontent.com/unixb0y/AltStore-Apps/main/OBSCam/images/screenshot_2.png",
+        "https://raw.githubusercontent.com/unixb0y/AltStore-Apps/main/OBSCam/images/screenshot_3.png",
+        "https://raw.githubusercontent.com/unixb0y/AltStore-Apps/main/OBSCam/images/screenshot_4.png"
+      ],
+      "size": 1479104,
+      "permissions": [
+          {
+            "type": "camera",
+            "usageDescription": "Allows you to use your cameras as OBS input devices."
+          }
+      ],
+      "subtitle": "Use iPhone camera as OBS input device.",
+      "tintColor": "afdc3e",
+      "version": "1.0",
+      "versionDate": "2021-01-24",
+      "versionDescription": "Initial release.\n\n"
+    }
+  ],
+  "identifier": "com.davidetoldo.AltStoreApps",
+  "name": "unixb0y Apps Repository",
+  "news": [
+    {
+      "appID": "com.davidetoldo.OBSCam",
+      "caption": "Use iPhone camera as OBS input device.",
+      "date": "2021-01-24",
+      "identifier": "com.davidetoldo.AltStoreApps",
+      "imageURL": "https://raw.githubusercontent.com/unixb0y/AltStore-Apps/main/OBSCam/images/screenshot_1.png",
+      "notify": false,
+      "tintColor": "afdc3e",
+      "title": "OBSCam Available",
+      "url": "https://raw.githubusercontent.com/unixb0y/AltStore-Apps/main/OBSCam/images/screenshot_1.png"
+    }
+  ]
+}
